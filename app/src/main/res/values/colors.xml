@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="viewV">#DBF5F2</color>
+    <color name="priceButton">#FF1BB2D8</color>
+    <color name="equipButton">#76047A</color>
+    <color name="fertizButton">#643F33</color>
+    <color name="insectButton">#145C22</color>
+    <color name="tipButton">#808311</color>
+</resources>

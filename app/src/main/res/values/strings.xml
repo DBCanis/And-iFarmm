@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">iFarmm</string>
+    <string name="text0">iFARM</string>
+    <string name="text1">Price</string>
+    <string name="text2">Machinery</string>
+    <string name="text3">Fertilizers</string>
+    <string name="text4">Insecticides</string>
+    <string name="text5">Tips</string>
+    <string name="text6">View Prices</string>
+    <string name="text7">View Machines</string>
+    <string name="text8">View Fertilizers</string>
+    <string name="text9">View Insecticides</string>
+    <string name="text10">Farming Tips</string>
+</resources>
